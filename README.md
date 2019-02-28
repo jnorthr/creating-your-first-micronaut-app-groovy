@@ -1,2 +1,3 @@
-# creating-your-first-micronaut-app-groovy
-This one will let you do "creating-your-first-micronaut-app-groovy"
+# Creating your first Micronaut Groovy app #
+
+The guide is available at http://guides.micronaut.io/creating-your-first-micronaut-app-groovy/guide/index.html
